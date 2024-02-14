@@ -5,7 +5,7 @@ var error= ""
 //Quetion # 01
 alert("Hello User ");
 //Quetion # 02
-alert("Your Website is Haked.");
+alert("Your Website is Hacked.");
 //Quetion # 03
 alert("HAHA Just Kidding");
 
